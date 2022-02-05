@@ -7,11 +7,61 @@ uid: f0e682ad-7bb3-36c7-f223-70317318eb02
 Molecular Visualization Software
 --------------------------------
 
-| TOOLS | DESCRIPTIONS | WEB SITES |
-| --- | --- | --- |
-| DS Viewer Pro | One of the most user friendly programs is DS Viewer Pro, and is available for a free 30 days trial. This trial program is available for only Windows platforms. | [Download DS ViewerPro 5.0](https://discover.3ds.com/discovery-studio-visualizer-download) |
-| Protein Explorer | Protein Explorer is another free modeling program that can be downloaded. Protein Explorer operates with Chime to provide a simple interface for novice users. | [FrontDoor to Protein Explorer 2.45 Beta](http://www.umass.edu/microbio/chime/pe_beta/pe/protexpl/vers_pe.htm?q=microbio/chime/explorer/vers_pe.htm) |
-| Chime | Chime is based on the older RasMol, but more powerful and easier to use than the original. The Chime plugin, which is required to run Protein Explorer, can be downloaded. | [MDL® Chime](https://www.umass.edu/microbio/chime/getchime.htm)   
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TOOLS
+{{< thclose >}}
+{{< thopen >}}
+DESCRIPTIONS
+{{< thclose >}}
+{{< thopen >}}
+WEB SITES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+DS Viewer Pro
+{{< tdclose >}}
+{{< tdopen >}}
+One of the most user friendly programs is DS Viewer Pro, and is available for a free 30 days trial. This trial program is available for only Windows platforms.
+{{< tdclose >}}
+{{< tdopen >}}
+[Download DS ViewerPro 5.0](https://discover.3ds.com/discovery-studio-visualizer-download)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Protein Explorer
+{{< tdclose >}}
+{{< tdopen >}}
+Protein Explorer is another free modeling program that can be downloaded. Protein Explorer operates with Chime to provide a simple interface for novice users.
+{{< tdclose >}}
+{{< tdopen >}}
+[FrontDoor to Protein Explorer 2.45 Beta](http://www.umass.edu/microbio/chime/pe_beta/pe/protexpl/vers_pe.htm?q=microbio/chime/explorer/vers_pe.htm)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Chime
+{{< tdclose >}}
+{{< tdopen >}}
+Chime is based on the older RasMol, but more powerful and easier to use than the original. The Chime plugin, which is required to run Protein Explorer, can be downloaded.
+{{< tdclose >}}
+{{< tdopen >}}
+[MDL® Chime](https://www.umass.edu/microbio/chime/getchime.htm)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
+  
 
 If you would like to explore other program options, a comprehensive list of free molecular visualization and modeling software with brief descriptions can be found [here](http://web.archive.org/web/20101003180855/http://molvis.sdsc.edu/visres/molvisfw/titles.jsp).
 
